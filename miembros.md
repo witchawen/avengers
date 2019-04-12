@@ -1,5 +1,6 @@
 # Miembros
 
+* Perico de los palotes
 * Black panther
 * Black Widow
 * Capitán Marvel
